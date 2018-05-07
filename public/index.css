@@ -5,7 +5,7 @@ body {
 .badge{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 6em 6em 6em 3em 6em;
+    grid-template-rows: 6em 6em 6em 2em 6em;
 }
 
 .top{
@@ -28,4 +28,7 @@ body {
 .ME{
     font-size: 3em;
     text-align: center;
+}
+.Hello{
+    font-size: 1.5em;
 }
